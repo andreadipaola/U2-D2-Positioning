@@ -146,10 +146,11 @@ main {
 }
 
 section {
+  height: 267px;
   background-color: #e3e3e3;
   padding: 1.5em 1em;
   margin-bottom: 2em;
-  /* position: relative; */
+  position: relative;
 }
 
 section h2 {
@@ -160,9 +161,9 @@ section h2 {
   font-weight: bold;
   background-color: #a3a3a3;
   padding: 0px 1em;
-  /* position: absolute;
+  position: absolute;
   top: -18px;
-  left: 18px; */
+  left: 18px;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
